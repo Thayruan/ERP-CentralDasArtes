@@ -1,0 +1,7 @@
+{
+  "name": "CDAERP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

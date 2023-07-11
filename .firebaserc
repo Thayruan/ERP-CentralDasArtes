@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "centraldasartess": {
+      "hosting": {
+        "app": [
+          "centraldasartess"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "centraldasartess"
+  }
+}
